@@ -2,13 +2,12 @@
  * main.c
  *
  *  Created on: ٠٤‏/٠٨‏/٢٠٢٣
- *      Author: M.Adel
+ *      Author: A.Adel
  */
 #include<stdio.h>
 int main()
 {
-	printf("C Programming ");
+	printf("C Programming");
 	return 0;
-
 }
 
